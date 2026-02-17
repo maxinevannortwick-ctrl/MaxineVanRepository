@@ -1,0 +1,40 @@
+*{background-color: green}
+body {
+    color: green
+}
+h1 {
+    background-color: maroon
+}
+h2 {
+    color: maroon
+}
+h3{
+    color: maroon
+}
+p {
+    color: green
+}
+p {
+    background-color: white
+}
+b {
+    background-color: white
+}
+i {
+    background-color: white
+}
+ul {
+    background-color: white
+}
+ol {
+    color: green
+}
+ol {
+    background-color: white
+}
+li {
+    color: green
+}
+li {
+    background-color: white
+}
