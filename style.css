@@ -1,40 +1,65 @@
 *{background-color: green}
+
 body {
-    color: green
+    color: green;
+    margin: 50px;
 }
 h1 {
-    background-color: maroon
+  text-shadow: 0 0 2px #00e9ff, 0 0 3px #0088ff;
+    background-color: maroon;
+    font-family: Monaco, monospace;
+     
 }
 h2 {
-    color: maroon
+    text-shadow: 0 0 2px #00e9ff, 0 0 3px #0088ff;
+    color: maroon;
+    font-family: Monaco, monospace;
+    
 }
 h3{
-    color: maroon
+    text-shadow: 0 0 2px #00e9ff, 0 0 3px #0088ff;
+    color: maroon;
+    font-family: Monaco, monospace;
+    
 }
 p {
-    color: green
+  display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+    color: green;
+    background-color: white;
+    border: 5px solid red;
+    font-family: Georgia, serif;
 }
-p {
-    background-color: white
+strong {
+     color: green;
+    background-color: white;
+    border: 10px solid maroon;
+     display: flex;
+    flex-direction: column;
+      border-radius: 10px;
+    padding: 20px;
+    z-index: 10;
 }
-b {
-    background-color: white
-}
-i {
-    background-color: white
-}
-ul {
-    background-color: white
-}
+
 ol {
-    color: green
-}
-ol {
-    background-color: white
+
+    color: green;
+    background-color: white;
+    border: 10px solid maroon;
+     display: flex;
+    flex-direction: column;
+      border-radius: 10px;
+    padding: 20px;
 }
 li {
-    color: green
-}
-li {
-    background-color: white
+      
+   color: green;
+    background-color: white;
+    border: 1px solid red;
+     display: flex;
+    flex-direction: column;
+      border-radius: 10px;
+    padding: 20px;
 }
